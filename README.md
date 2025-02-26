@@ -10,5 +10,8 @@
   <a>
     <img src="https://streak-stats.demolab.com?user=AldenETH&theme=highcontrast&card_width=535" alt="GitHub Streak" />
   </a>
+  
+  <br />
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldenETH&show_icons=true&theme=transparent)
 </div>
