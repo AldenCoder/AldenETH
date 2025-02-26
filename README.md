@@ -1,9 +1,13 @@
-<h2 style="color: #36BCF7FF; text-align: center;">AldenETH</h2>
+<div align="center">
+  <h2 style="color: #36BCF7FF;">AldenETH</h2>
 
-<a>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Full-Stack+Web+App+%26+Blockchain+Developer;Focused+on+automation%2C+AI%2C+and+optimization;Exploring+AI-driven+automation+and+databases;Always+learning%2C+building%2C+and+collaborating" alt="Typing SVG" />
-</a>
+  <a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Full-Stack+Web+App+%26+Blockchain+Developer;Focused+on+automation%2C+AI%2C+and+optimization;Exploring+AI-driven+automation+and+databases;Always+learning%2C+building%2C+and+collaborating" alt="Typing SVG" />
+  </a>
 
-<a>
-  <img src="https://streak-stats.demolab.com?user=AldenETH&theme=highcontrast" alt="GitHub Streak" />
-</a>
+  <br />
+
+  <a>
+    <img src="https://streak-stats.demolab.com?user=AldenETH&theme=highcontrast" alt="GitHub Streak" />
+  </a>
+</div>
