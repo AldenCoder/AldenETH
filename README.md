@@ -8,7 +8,7 @@
   <br />
 
   <a> 
-    <img src="https://streak-stats.demolab.com?user=AldenCoder&theme=highcontrast&border_radius=5&card_width=535" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=AldenCoder&theme=highcontrast&card_width=535" alt="GitHub Streak" />
   </a>
   
   <br />
