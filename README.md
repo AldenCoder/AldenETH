@@ -7,7 +7,7 @@
 
   <br />
 
-  <a>
+  <a> 
     <img src="https://streak-stats.demolab.com?user=AldenETH&theme=highcontrast&border_radius=5&card_width=535" alt="GitHub Streak" />
   </a>
   
